@@ -1,3 +1,7 @@
 {
-  "promptDelete": false
+  "promptDelete": false,
+  "smartIndentList": true,
+  "vimMode": true,
+  "autoPairMarkdown": true,
+  "livePreview": false
 }
